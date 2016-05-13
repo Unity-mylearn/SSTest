@@ -5,10 +5,10 @@
       <File FileName="Assets/Shader/BasicDiffuseShader.shader" Line="1" Column="1" />
       <File FileName="Assets/Shader/ScrollTextureShader.shader" Line="1" Column="1" />
       <File FileName="Assets/Shader/SpriteSheetShader.shader" Line="1" Column="1" />
-      <File FileName="Assets/Shader/TexturePackgerShader.shader" Line="66" Column="40" />
-      <File FileName="Assets/Shader/NormalMapShader.shader" Line="23" Column="41" />
-      <File FileName="Assets/ProceduralTexture.cs" Line="72" Column="15" />
-      <File FileName="Assets/Shader/PhotoShopShader.shader" Line="87" Column="51" />
+      <File FileName="Assets/Shader/TexturePackgerShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/Shader/NormalMapShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/ProceduralTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shader/PhotoShopShader.shader" Line="81" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
